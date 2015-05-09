@@ -1,0 +1,80 @@
+slideshare.net/edysegura
+
+
+http://trello.com/inatelbr
+hudsonlima
+
+http://html5test.com/
+
+editor brackets.io
+http://brackets.io/
+
+codepen conta OK
+
+github conta OK
+
+csszengarden.com
+
+
+https://developer.mozilla.org/pt-BR/
+
+
+terminar de traduzir
+https://developer.mozilla.org/en-US/docs/Web/Guide/CSS
+
+
+gitbuget
+
+
+trygit
+https://try.github.io/levels/1/challenges/1
+
+
+git init
+
+ul>li{Ordered List = $}*3
+table>tr*3>td{data}*2
+
+git add .
+
+
+
+http://pt.wikihow.com/Melhorar-Sua-Vis%C3%A3o
+
+git status
+
+git commit -m 'first files'
+
+
+git clone insert
+
+git push
+
+ul>li*4>a[href=page.html]{PageName}  
+
+
+
+
+inkSeape
+
+gh pages
+http://hudsonlima.github.io/htmlbasics
+
+
+Próxima Aula
+Resume
+
+Currículo
+
+Titles 
+Paragraphs
+Lists
+Image
+Links
+
+index.html
+
+
+
+
+

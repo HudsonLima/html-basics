@@ -1,3 +1,5 @@
+/* @override http://www.fitodotnet.com/csstablegallery/tablita.css */
+
 /*
 Theme: The OC
 Author: Rodolfo Marin - FitoDotNET
@@ -15,6 +17,7 @@ table {
 	border-spacing: 1px;
 	border-left: 1px solid #1F2A34;
 	border-right: 1px solid #1F2A34;
+	width: 80%;
 }
 thead th{
 	background: url('http://www.fitodotnet.com/csstablegallery/mainNavBG.gif');
